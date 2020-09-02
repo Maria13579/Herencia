@@ -20,7 +20,7 @@ namespace herencia
         {
             return (a * b);
         }
-        public double DIVI(double a, double b)
+        public double Divi(double a, double b)
         {
             return (a / b);
         }
